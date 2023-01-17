@@ -38,4 +38,4 @@ correct_matches = {
 
 # access answer to topic 5 (get the value for this topic)
 
-print(correct_matches.get(topic_area[4]))
+print(correct_matches.get(topic_area[4])) # -> know how to connect remotely to the network
